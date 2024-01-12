@@ -1,0 +1,12 @@
+# eslintrc.yml
+extends:
+  - airbnb-base
+  - plugin:import/recommended
+
+plugins:
+  - import
+
+rules:
+  no-console: off
+
+  import/extensions: off
