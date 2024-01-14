@@ -10,3 +10,5 @@
 [Ссылка на аскинему Наибольшей делитель](https://asciinema.org/a/Xq1tSgyd8ziuBK9BxBhPAkLnE)
 
 [Ссылка на аскинему Регресия](https://asciinema.org/a/A3uP5HSYXRe7wY6vsidq4WVa4)
+
+[Ссылка на аскинему Простое число](https://asciinema.org/a/INS4Mz1NYTjQPRpfGgxXbjFdH)
