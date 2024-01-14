@@ -8,3 +8,5 @@
 [Ссылка на аскинему Калькулятор](https://asciinema.org/a/U1Jhd8BZHD2fVxxuA3BDGabLh)
 
 [Ссылка на аскинему Наибольшей делитель](https://asciinema.org/a/Xq1tSgyd8ziuBK9BxBhPAkLnE)
+
+[Ссылка на аскинему Регресия](https://asciinema.org/a/A3uP5HSYXRe7wY6vsidq4WVa4)
