@@ -3,7 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/b70fb96da76d98517fd9/maintainability)](https://codeclimate.com/github/BorisHai/frontend-project-44/maintainability)
 
-[Ссылка на аскинему Четное-нечетное число](https://asciinema.org/a/uMIxoz3EGypsow6U8x7CByUm2)
+[Ссылка на аскинему Четное-нечетное число](https://asciinema.org/a/UxwQITmWvN8NRUDpYWj77Z4Ai)
 
 [Ссылка на аскинему Калькулятор](https://asciinema.org/a/U1Jhd8BZHD2fVxxuA3BDGabLh)
 

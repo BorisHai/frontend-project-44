@@ -1,6 +1,5 @@
 import playGame from '../index.js';
 import getRandomInt from '../../utils/utils.js';
-import greetUser from '../cli.js';
 
 const isEven = (num) => num % 2 === 0;
 
@@ -12,5 +11,9 @@ const generateQuestion = () => {
   return { question, correctAnswer };
 };
 
-const userName = greetUser();
-playGame('Answer "yes" if the number is even, otherwise answer "no".', generateQuestion, userName);
+const startEvenGame = () => {
+  const description = 'Answer "yes" if the number is even, otherwise answer "no".';
+  playGame(description, generateQuestion);
+};
+
+export default startEvenGame;
